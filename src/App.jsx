@@ -1,13 +1,9 @@
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import MenuResto from "./components/MenuResto";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-      <Header />
-      <MenuResto />
-      <Footer />
+      <Home />
     </>
   )
 }
